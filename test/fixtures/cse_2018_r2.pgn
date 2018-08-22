@@ -1,0 +1,910 @@
+[Event "SUI-chT Winterthur-St. Gallen"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.1"]
+[White "Georgiadis, Nico"]
+[Black "Novkovic, Milan"]
+[Result "1-0"]
+[ECO "A62"]
+[WhiteElo "2568"]
+[BlackElo "2402"]
+[PlyCount "87"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8. Nf3
+O-O 9. O-O a6 10. a4 Re8 11. Bf4 Qc7 12. Re1 Nh5 13. Bg5 h6 14. Bd2 Nd7 15. e4
+Rb8 16. Rb1 b5 17. axb5 axb5 18. b4 cxb4 19. Na2 b3 20. Qxb3 Nc5 21. Qc2 Nf6
+22. Nd4 Nfxe4 23. Bxe4 Bxd4 24. Bxg6 Rxe1+ 25. Rxe1 Kg7 26. Be4 Bf6 27. Qc1 h5
+28. Bc3 Bxc3 29. Qg5+ Kf8 30. Nxc3 Nd7 31. Nxb5 Rxb5 32. Qh6+ Ke7 33. Bd3+ Ne5
+34. Bxb5 Bb7 35. Bc6 Bxc6 36. dxc6 Qb6 37. Re3 Qc5 38. Qg5+ Ke6 39. Qxh5 Qc1+
+40. Kg2 Qxc6+ 41. Kh3 Qc1 42. Qe2 Kf6 43. f4 Qc8+ 44. g4 1-0
+
+[Event "SUI-chT St. Gallen-Winterthur"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.2"]
+[White "Fecker, Noah"]
+[Black "Forster, Richard"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "2209"]
+[BlackElo "2463"]
+[PlyCount "72"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. Nf3 Qxd5 5. Be2 Nc6 6. c4 Qf5 7. Be3 O-O-O 8.
+Nc3 e5 9. d5 e4 10. Nd4 Nxd4 11. Bxd4 Bd6 12. h3 Bxe2 13. Qxe2 Rhe8 14. a3 a6
+15. Nd1 Qg6 16. Ne3 Kb8 17. Bxf6 Qxf6 18. Rc1 Be5 19. Rc2 h5 20. Rd2 g6 21. Kd1
+Qb6 22. Kc1 f5 23. g3 h4 24. g4 f4 25. Nd1 g5 26. Kb1 Bg7 27. Re1 Qb3 28. f3 e3
+29. Rc2 b5 30. cxb5 Rxd5 31. Nc3 Bxc3 32. Rxc3 Qxb5 33. Qc2 Rd2 34. Qc1 Red8
+35. Ka2 R8d3 36. Rc5 Qb3+ 0-1
+
+[Event "SUI-chT Winterthur-St. Gallen"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.3"]
+[White "Gaehwiler, Gabriel"]
+[Black "Leutwyler, Martin"]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2431"]
+[BlackElo "2205"]
+[PlyCount "61"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6 8.
+Ne5 a5 9. g3 e6 10. Bg2 Bb4 11. O-O O-O 12. Bg5 h6 13. Bxf6 Qxf6 14. e3 Qe7 15.
+Qb3 Nd7 16. e4 Bh7 17. Nxd7 Qxd7 18. Rfd1 Qe7 19. Rac1 Rfd8 20. e5 Qd7 21. h4
+Bf8 22. Qc4 Qe7 23. Ne4 Bxe4 24. Bxe4 Qb4 25. Qxb4 Bxb4 26. Kf1 Rd7 27. Rd3
+Rad8 28. Rcd1 c5 29. dxc5 Rxd3 30. Rxd3 Rxd3 31. Bxd3 1/2-1/2
+
+[Event "SUI-chT St. Gallen-Winterthur"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.4"]
+[White "Potterat, Marc"]
+[Black "Jenni, Florian"]
+[Result "0-1"]
+[ECO "E21"]
+[WhiteElo "2183"]
+[BlackElo "2439"]
+[PlyCount "112"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 d6 6. Bd2 b6 7. e3 Bb7 8. Bd3
+c5 9. dxc5 bxc5 10. a3 Ba5 11. Ne4 Bxe4 12. Bxe4 Nxe4 13. Qxe4 Bxd2+ 14. Nxd2
+Nd7 15. O-O a5 16. Qc2 Nf6 17. Rfd1 Rb8 18. Rab1 Rb6 19. Ne4 Nxe4 20. Qxe4 Qf6
+21. Rd2 g6 22. Qf3 Qe5 23. Qg3 Qxg3 24. hxg3 Rd8 25. Rc1 {(=)} h5 26. Kf1 Kf8
+27. Rcc2 Ke7 28. Ke2 a4 29. Kd1 Rh8 30. Kc1 h4 31. gxh4 Rxh4 32. f3 f5 33. Rd1
+Rb3 34. Kd2 g5 35. Ke2 f4 36. exf4 Rxf4 37. Rh1 Rh4 38. Rd1 g4 39. fxg4 Rxg4
+40. Kf2 Rf4+ 41. Kg1 Rd4 42. Rf1 Rg3 43. Rfc1 Rgg4 44. Kh2 Rge4 45. Kg1 Kf6 46.
+Rf1+ Ke5 47. Rfc1 Rd3 48. Rf1 Rdd4 49. Rfc1 Re3 50. Rf1 Rde4 51. Rff2 Re1+ 52.
+Kh2 Rd1 53. Rf3 Kd4 54. b3 axb3 55. Rxb3 d5 56. Rbc3 Rd3 0-1
+
+[Event "SUI-chT Winterthur-St. Gallen"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.5"]
+[White "Kaczmarczyk, Dennis"]
+[Black "Giesinger, Elias"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2423"]
+[BlackElo "2177"]
+[PlyCount "61"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 a6 4. Nc3 d5 5. cxd5 exd5 6. Bg5 Be6 7. e3 Bd6 8. Bd3
+O-O 9. Ne5 Be7 10. O-O Ne8 11. Bxe7 Qxe7 12. Qc2 g6 13. Rac1 f6 14. Nf3 c6 15.
+Rfe1 Nd6 16. e4 Qf7 17. e5 Nb5 18. a4 Nxc3 19. bxc3 b5 20. exf6 Qxf6 21. Ne5
+Rc8 22. Qe2 Re8 23. Qa2 c5 24. axb5 c4 25. Nxc4 dxc4 26. Rxe6 Rxe6 27. Bxc4 Kg7
+28. Bxe6 Ra7 29. Bc4 Nd7 30. bxa6 Qg5 31. Rb1 1-0
+
+[Event "SUI-chT St. Gallen-Winterthur"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.6"]
+[White "Novkovic, Julia"]
+[Black "Ballmann, Martin"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2174"]
+[BlackElo "2412"]
+[PlyCount "92"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. a4 b6 6. Qd2 Nd7 7. Bc4 Bb7 8. Nf3 e6
+9. Bg5 Ndf6 10. Qe2 h6 11. Bd2 Ne7 12. h3 d5 13. Bd3 c5 14. exd5 exd5 15. Qd1
+Ne4 16. O-O cxd4 17. Ne2 Nc6 18. b4 O-O 19. b5 axb5 20. axb5 {(=)} Rxa1 21.
+Qxa1 Ne5 22. Nxe5 Nxd2 23. Rd1 Bxe5 24. Rxd2 Qg5 25. Rd1 Ra8 26. Qb2 Bc8 27.
+Ra1 Rxa1+ 28. Qxa1 Bxh3 29. g3 Qd8 30. f4 Bf6 31. Kh2 Bg4 32. Qg1 Qd6 33. Nxd4
+Qc5 34. Nc6 d4 35. Qe1 Qh5+ 36. Kg1 Bf3 37. Kf2 Bd5 38. Be4 Qh2+ 39. Kf1 Bc4+
+40. Bd3 Qxc2 41. Bxc4 Qxc4+ 42. Qe2 d3 43. Qe8+ Kg7 44. Ne5 Bxe5 45. Qxe5+ Kh7
+46. Kg2 d2 0-1
+
+[Event "SUI-chT Winterthur-St. Gallen"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.7"]
+[White "Balcerak, Philipp"]
+[Black "Salerno, Christian"]
+[Result "1-0"]
+[ECO "A16"]
+[WhiteElo "2336"]
+[BlackElo "2124"]
+[PlyCount "71"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 O-O 5. Nc3 d5 6. cxd5 Nxd5 7. h4 h5 8. Qb3
+c6 9. Ng5 Nf6 10. d3 Nbd7 11. Bd2 Nc5 12. Qa3 Ne6 13. Rc1 Qd6 14. b4 Nd4 15. e3
+Nf5 16. Nce4 Nxe4 17. Nxe4 Qb8 18. O-O Be5 19. Bc3 Bc7 20. Bb2 Nd6 21. Qc3 f6
+22. Qb3+ Kh7 23. Nc5 a5 24. a3 axb4 25. axb4 Nb5 26. d4 Bg4 27. d5 Bxg3 28.
+fxg3 Qxg3 29. e4 Qxh4 30. e5 fxe5 31. dxc6 Be2 32. Rf7+ Rxf7 33. Qxf7+ Kh6 34.
+Bxe5 Nd4 35. Bg7+ Kg5 36. Ne4+ 1-0
+
+[Event "SUI-chT St. Gallen-Winterthur"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.8"]
+[White "Thaler, Anton"]
+[Black "Hasenohr, Benedict"]
+[Result "1/2-1/2"]
+[ECO "D94"]
+[WhiteElo "2098"]
+[BlackElo "2300"]
+[PlyCount "125"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 g6 5. e3 Bf5 6. Bd3 Bxd3 7. Qxd3 Bg7 8. O-O
+O-O 9. Nc3 Re8 10. e4 dxe4 11. Nxe4 Nbd7 12. Nxf6+ Bxf6 13. Be3 Qc7 14. Rfd1
+Rad8 15. Qc2 e5 16. Rd2 e4 17. Ng5 Bg7 18. g3 Nf6 19. Re1 h6 20. Nh3 g5 21. Kg2
+Nd7 22. Ng1 f5 23. f4 Nf8 24. Nh3 g4 25. Nf2 Rd7 26. Red1 Red8 27. Qb3 Kh8 28.
+d5 c5 29. Qc2 b6 30. Re1 Kg8 31. Nd1 Rd6 32. Nf2 Qf7 33. Rh1 Bf6 34. h3 gxh3+
+35. Rxh3 Qg7 36. Kf1 Bd4 37. g4 fxg4 38. Nxg4 Rg6 39. Nf2 Rg1+ 40. Ke2 Qg2 41.
+Rd1 Rxd1 42. Qxd1 Ng6 43. Qf1 Qxf1+ 44. Kxf1 Rf8 45. Bxd4 cxd4 46. Nxe4 Rxf4+
+47. Nf2 Ne5 48. Ke2 Nxc4 49. Rxh6 Rf5 50. Rc6 Nxb2 51. d6 Rd5 52. Nd3 Nxd3 53.
+Kxd3 Kf7 54. Rc7+ Ke6 55. Rxa7 Kxd6 56. Ra8 b5 57. a3 Kc6 58. Rc8+ Kb7 59. Rh8
+Kb6 60. Rb8+ Kc7 61. Rh8 Kd6 62. Rd8+ Ke5 63. Re8+ 1/2-1/2
+
+[Event "SUI-chT Reti-Geneve"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.1"]
+[White "Bogner, Sebastian"]
+[Black "Sokolov, Andrei"]
+[Result "1-0"]
+[ECO "B81"]
+[WhiteElo "2589"]
+[BlackElo "2508"]
+[PlyCount "75"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. h4 Nc6 8. Rg1
+d5 9. exd5 Nxd5 10. Nxd5 Qxd5 11. Bg2 Qe5+ 12. Be3 Bd7 13. Nxc6 Bxc6 14. Bxc6+
+bxc6 15. Qd4 Qxd4 16. Bxd4 c5 17. Bc3 O-O-O 18. h5 Rd5 19. Ke2 Rg8 20. Rg3 Bd6
+21. Rf3 f6 22. Re3 Kd7 23. Re4 f5 24. Ra4 fxg4 25. Rxa7+ Kc6 26. Rxg7 Rxg7 27.
+Bxg7 Rxh5 28. Rg1 g3 29. fxg3 Rh2+ 30. Kd1 h5 31. Bc3 e5 32. Be1 c4 33. Rf1 Bc5
+34. Rf6+ Kd5 35. a4 Bd4 36. a5 e4 37. a6 e3 38. Rf7 1-0
+
+[Event "SUI-chT Geneve-Reti"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.2"]
+[White "Fontaine, Robert"]
+[Black "Stojanovic, Mihajlo"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2565"]
+[BlackElo "2511"]
+[PlyCount "70"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. g3 Bc5 6. e5 Nd7 7. c3 f6 8. d4 Be7
+9. Qe2 fxe5 10. dxe5 a5 11. Bh3 Nc5 12. O-O O-O 13. Nd4 Qe8 14. Nb5 Bd8 15. a4
+b6 16. b3 Ba6 17. Ba3 Be7 18. c4 Bxb5 19. axb5 Nd4 20. Qg4 Nc2 21. Bxc5 Bxc5
+22. Rac1 Nd4 23. Kh1 Rd8 24. f4 Kh8 25. Nf3 h5 26. Qh4 Nxf3 27. Rxf3 Be7 28.
+Bxe6 Bxh4 29. cxd5 Bg5 30. Rc6 Be7 31. f5 Bg5 32. h4 Bd2 33. Rxc7 Qxb5 34. f6
+g6 35. Rg7 Qe2 0-1
+
+[Event "SUI-chT Reti-Geneve"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.3"]
+[White "Gallagher, Joseph"]
+[Black "Riff, Jean-Noel"]
+[Result "0-1"]
+[ECO "B51"]
+[WhiteElo "2453"]
+[BlackElo "2488"]
+[PlyCount "98"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bd3 Ngf6 6. c3 b5 7. Bc2 Bb7 8. Qe2
+c4 9. b3 Qc7 10. bxc4 bxc4 11. Na3 e6 12. Nxc4 Rc8 13. Rb1 Be7 14. d3 d5 15. e5
+dxc4 16. exf6 Nxf6 17. Ba4+ Bc6 18. Bxc6+ Qxc6 19. dxc4 O-O 20. Ne5 Qe4 21.
+Qxe4 Nxe4 22. Be3 f6 23. Rb7 Rfe8 24. Nf3 Rxc4 25. Nd2 Nxd2 26. Bxd2 Ra4 27.
+Ra1 Bc5 28. Kf1 Rd8 29. Be1 h5 30. Rb2 Kf7 31. Rd2 Rxd2 32. Bxd2 e5 33. Ke2 Ke6
+34. Be3 Bxe3 35. Kxe3 Ra3 36. Kd3 Kd5 37. Rd1 Rxa2 38. Ke3+ Ke6 39. c4 a5 40.
+Rd5 a4 41. Ra5 a3 42. Ra6+ Kf5 43. c5 Ra1 44. c6 Ke6 45. c7+ Kd7 46. Ra7 a2 47.
+Kf3 g5 48. h3 f5 49. g3 e4+ 0-1
+
+[Event "SUI-chT Geneve-Reti"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.4"]
+[White "Vernay, Clovis"]
+[Black "Maier, Christian"]
+[Result "1-0"]
+[ECO "E81"]
+[WhiteElo "2505"]
+[BlackElo "2377"]
+[PlyCount "109"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. d4 Nf6 2. c4 g6 3. f3 Bg7 4. e4 d6 5. Nc3 O-O 6. Bg5 h6 7. Be3 e5 8. d5 Nh5
+9. Qd2 Kh7 10. Bd3 Nf4 11. Bc2 c6 12. h4 cxd5 13. exd5 f5 14. g3 Nh5 15. Nge2
+Na6 16. O-O-O f4 17. gxf4 Bf5 18. fxe5 dxe5 19. Ne4 Rc8 20. Qc3 Nf4 21. Nxf4
+exf4 22. Bd4 Bxd4 23. Qxd4 Qc7 24. Ng5+ Kg8 25. Ne6 Bxe6 26. dxe6 Qxc4 27. Qxc4
+Rxc4 28. Kb1 Rc7 29. Rhg1 Rf6 30. Rd8+ Kg7 31. Rd7+ Kf8 32. Rxg6 Rxe6 33. Rxe6
+Rxd7 34. Rxh6 Rg7 35. a3 Nc5 36. Rh5 Rg1+ 37. Ka2 Ne6 38. Rh8+ Ke7 39. h5 Nf8
+40. Be4 b6 41. h6 Rh1 42. h7 Kf7 43. b4 Rh5 44. b5 Ke7 45. a4 Kf7 46. Ka3 Rh3
+47. Kb4 Rh4 48. a5 bxa5+ 49. Kxa5 Rh6 50. Bc6 Rh1 51. Ka6 Nxh7 52. Kxa7 Ra1+
+53. Kb8 Nf8 54. Rxf8+ Kxf8 55. b6 1-0
+
+[Event "SUI-chT Reti-Geneve"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.5"]
+[White "Degtiarev, Evgeny"]
+[Black "Miralles, Gilles"]
+[Result "1-0"]
+[ECO "E00"]
+[WhiteElo "2367"]
+[BlackElo "2430"]
+[PlyCount "77"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 c5 5. Bxb4 cxb4 6. Bg2 O-O 7. e4 d6 8. Ne2
+e5 9. a3 Qb6 10. O-O Bg4 11. f3 Be6 12. b3 Nc6 13. axb4 exd4 14. Rf2 Qxb4 15.
+Na3 a5 16. Nxd4 Nxd4 17. Qxd4 a4 18. Nc2 Qc5 19. Qxc5 dxc5 20. bxa4 Bxc4 21. a5
+Rfd8 22. Ne3 Bd3 23. Rb2 Ba6 24. Rc1 Rd3 25. Kf2 Ra3 26. Rxc5 g6 27. e5 Nd7 28.
+Rd5 Nf8 29. f4 Rc8 30. Rdd2 Ne6 31. Bh3 Rcc3 32. Bxe6 Rxe3 33. Bd5 Rec3 34.
+Bxb7 Bd3 35. Ra2 Bc4 36. Rxa3 Rxa3 37. Bd5 Ba6 38. Ra2 Rc3 39. Bf3 1-0
+
+[Event "SUI-chT Geneve-Reti"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.6"]
+[White "Vuilleumier, Alexandre"]
+[Black "Kappeler, Kaspar"]
+[Result "1-0"]
+[ECO "A49"]
+[WhiteElo "2338"]
+[BlackElo "2280"]
+[PlyCount "85"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d6 6. Nc3 Bg4 7. Ne1 Nc6 8. h3
+Bd7 9. d5 Nb4 10. a3 Na6 11. Rb1 c6 12. Be3 Nc7 13. dxc6 bxc6 14. b4 Qc8 15.
+Kh2 Rd8 16. Qd2 e5 17. Bh6 Be6 18. Bxg7 Kxg7 19. f4 Ncd5 20. Nd3 e4 21. Nxe4
+Nxe4 22. Bxe4 Bxh3 23. Rf2 Nf6 24. Qc3 d5 25. Bf3 d4 26. Qc5 Ng4+ 27. Bxg4 Bxg4
+28. Ne5 Rd5 29. Qe7 Be6 30. Rh1 Rb8 31. Kg1 Rb7 32. Qg5 c5 33. Rfh2 Qg8 34.
+Qh6+ Kf6 35. Qg5+ Kg7 36. g4 cxb4 37. Qh6+ Kf6 38. Qg5+ Kg7 39. axb4 Rc7 40. f5
+Bc8 41. f6+ Kf8 42. Rxh7 Rxc2 43. Rh8 1-0
+
+[Event "SUI-chT Reti-Geneve"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.7"]
+[White "Antognini, Francesco"]
+[Black "Landenbergue, Claude"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2308"]
+[BlackElo "2316"]
+[PlyCount "77"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bg4 5. d3 Nbd7 6. Nbd2 e5 7. e4 Bd6 8. h3
+Bh5 9. Qe1 O-O 10. Nh4 dxe4 11. Nf5 Qc7 12. Nxd6 Qxd6 13. dxe4 Rfe8 14. Nc4 Qc7
+15. b3 Nc5 16. Bb2 b5 17. Qa5 Qb8 18. Ne3 Ncxe4 19. Rfe1 Qc8 20. a4 Rb8 21.
+axb5 cxb5 22. Qb4 Bg6 23. Rxa7 Qe6 24. Ra5 Qb6 25. Bf1 Ng5 26. Rxb5 Nf3+ 27.
+Kh1 Qc6 28. Rxb8 Nxe1+ 29. Ng2 Nxc2 30. Rxe8+ Qxe8 31. Qd6 Ne4 32. Qxe5 Nxf2+
+33. Kh2 Qxe5 34. Bxe5 f6 35. Bc3 Bd3 36. Bxd3 Nxd3 37. Nf4 Nc5 38. b4 Nb7 39.
+Nd3 1/2-1/2
+
+[Event "SUI-chT Geneve-Reti"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.8"]
+[White "Gerber, Richard"]
+[Black "Gantner, Matthias"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[WhiteElo "2322"]
+[BlackElo "2280"]
+[PlyCount "67"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 Bg4 5. h3 Bh5 6. Nc3 e6 7. Qb3 Qb6 8. Ne5
+Qxb3 9. axb3 Nbd7 10. f4 Bg6 11. Nxg6 hxg6 12. Bd3 a6 13. c5 Be7 14. Bd2 O-O-O
+15. O-O Rh5 16. Rf3 Rdh8 17. Bf1 g5 18. g4 Ne4 19. Nxe4 dxe4 20. Rf2 R5h7 21.
+f5 exf5 22. Rxf5 g6 23. Rf2 Bd8 24. Bg2 Bc7 25. Raf1 f6 26. Rxf6 Nxf6 27. Rxf6
+Rxh3 28. Bxh3 Rxh3 29. Kf2 Rh2+ 30. Ke1 Rg2 31. Rxg6 Rxg4 32. Rg8+ Kd7 33. Rg7+
+Kc8 34. Rg8+ 1/2-1/2
+
+[Event "SUI-chT Echallens-Zuerich"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.1"]
+[White "Sermier, Guillaume"]
+[Black "Bauer, Christian"]
+[Result "0-1"]
+[ECO "A21"]
+[WhiteElo "2405"]
+[BlackElo "2672"]
+[PlyCount "110"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 d6 4. c4 e5 5. dxe5 dxe5 6. Qxd8+ Kxd8 7. Nc3 c6 8.
+Nf3 e4 9. Nd4 Na6 10. Bg5 Be7 11. O-O-O Ke8 12. f3 exf3 13. exf3 Kf7 14. Rhe1
+h6 15. Be3 Rd8 16. Bh3 g6 17. Bf1 Bf8 18. Nb3 Re8 19. Bf2 Rxe1 20. Rxe1 c5 21.
+f4 b6 22. Bg2 Rb8 23. a3 Nc7 24. Nd2 Be6 25. Nf3 Bd6 26. Bf1 Ng4 27. Bg1 Rg8
+28. h3 Nf6 29. Ne5+ Kf8 30. Bf2 g5 31. fxg5 hxg5 32. b3 Kg7 33. Bg2 a6 34. Kc2
+b5 35. Nd3 bxc4 36. bxc4 Bxc4 37. Nxc5 Rc8 38. Bb7 Rb8 39. Bg2 Nb5 40. Nxb5
+Rxb5 41. Ne6+ Kg6 42. Nd4 Ra5 43. Kc3 Bd5 44. Bxd5 Nxd5+ 45. Kd2 Nf6 46. g4
+fxg4 47. hxg4 Rxa3 48. Re6 Kf7 49. Ke2 Bc5 50. Rc6 Ra2+ 51. Ke1 Bb4+ 52. Kf1
+Nxg4 53. Bg1 Ne5 54. Re6 Ra1+ 55. Ke2 Re1+ 0-1
+
+[Event "SUI-chT Zuerich-Echallens"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.2"]
+[White "Pelletier, Yannick"]
+[Black "Colmenares, Aurelio"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[WhiteElo "2552"]
+[BlackElo "2373"]
+[PlyCount "62"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. a3 d5 5. cxd5 Nxd5 6. Qc2 Bg4 7. Nxe5 Nxe5 8.
+Qe4 Bd6 9. Qxd5 c6 10. Qb3 Qe7 11. Ne4 O-O-O 12. d3 Bc7 13. Qb4 Qe8 14. d4 f5
+15. Nc5 b6 16. dxe5 bxc5 17. Qxc5 Rd5 18. Qxa7 Qxe5 19. f3 Rhd8 20. e3 R8d6 21.
+Qa6+ Kd7 22. Be2 Rh6 23. e4 fxe4 24. Bxh6 exf3 25. gxf3 Bh3 26. Bd2 Rxd2 27.
+Kxd2 Qxb2+ 28. Ke3 Bb6+ 29. Kf4 Bc7+ 30. Ke3 Bb6+ 31. Kf4 Bc7+ 1/2-1/2
+
+[Event "SUI-chT Echallens-Zuerich"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.3"]
+[White "Botta, Gabriele"]
+[Black "Vogt, Lothar"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2379"]
+[BlackElo "2480"]
+[PlyCount "62"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Na3 Be7 7. Bc4 Qd8 8.
+dxc5 Qxd1+ 9. Kxd1 Bxc5 10. Nb5 Na6 11. Ke2 Bd7 12. Ne5 Ke7 13. Bg5 Bxb5 14.
+Bxb5 Nc7 15. Bc4 Bd6 16. Ng4 h6 17. Bh4 g5 18. Nxf6 Kxf6 19. Rad1 Rhd8 20. Bg3
+Be5 21. Ke3 b5 22. Bb3 a5 23. Rxd8 Rxd8 24. Rd1 Rxd1 25. Bxd1 Bxg3 26. hxg3 Ke5
+27. Kd3 f5 28. a4 bxa4 29. Bxa4 Kd5 30. b4 axb4 31. cxb4 e5 1/2-1/2
+
+[Event "SUI-chT Zuerich-Echallens"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.4"]
+[White "Hug, Werner"]
+[Black "Bondar, Yevgen"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2461"]
+[BlackElo "2344"]
+[PlyCount "99"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. d4 d5 2. Bf4 e6 3. e3 Bd6 4. Bxd6 Qxd6 5. Qg4 Kf8 6. Nc3 Nf6 7. Qh4 c6 8.
+Nf3 Nbd7 9. a3 Qe7 10. Bd3 Ne8 11. Qg3 Qd6 12. e4 Qxg3 13. hxg3 dxe4 14. Nxe4
+Ndf6 15. Ne5 Nxe4 16. Bxe4 Nf6 17. Bf3 Bd7 18. g4 Be8 19. g5 Nd7 20. O-O-O Nxe5
+21. dxe5 Ke7 22. Be4 Rd8 23. Rxd8 Kxd8 24. Kd2 Ke7 25. Ke3 Bd7 26. g4 g6 27. b4
+Kd8 28. a4 Kc7 29. a5 Bc8 30. c4 b6 31. axb6+ axb6 32. Kd4 Bb7 33. c5 b5 34.
+Ke3 Bc8 35. f4 Bd7 36. Bc2 Kb8 37. Rh6 Kc7 38. f5 exf5 39. gxf5 gxf5 40. Bb3
+Be8 41. Kf4 Kd8 42. Bc2 Ke7 43. Bxf5 Kf8 44. Be4 Bd7 45. Bxc6 Be6 46. Bxb5 Ke7
+47. Ba6 Rd8 48. c6 Rd4+ 49. Ke3 Rxb4 50. Rxe6+ 1-0
+
+[Event "SUI-chT Echallens-Zuerich"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.5"]
+[White "Buss, Ralph"]
+[Black "Rosenthal, Jonathan"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[WhiteElo "2303"]
+[BlackElo "2346"]
+[PlyCount "99"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. e3 Nf6 5. b3 Nbd7 6. Bb2 b6 7. Bd3 Bb7 8. Nc3
+Bd6 9. O-O O-O 10. Qc2 Rc8 11. Rad1 Qe7 12. e4 dxc4 13. bxc4 e5 14. c5 Bb8 15.
+cxb6 axb6 16. Ne2 c5 17. dxe5 Ng4 18. Bc4 Ndxe5 19. Nxe5 Bxe5 20. Bxe5 Nxe5 21.
+Bd5 Bxd5 22. Rxd5 Nc6 23. Qb1 Nb4 24. Rd2 Ra8 25. Nc3 Ra3 26. Nd5 Nxd5 27. exd5
+Qd6 28. Qb5 Ra5 29. Qb3 b5 30. Rc1 b4 31. g3 Rd8 32. Qc4 g6 33. Re1 Ra3 34. Rc1
+Ra5 35. Qe4 Rc8 36. Rcc2 Rd8 37. h4 h5 38. Kg2 Rd7 39. Qe8+ Kg7 40. Qe4 Re7 41.
+Qc4 Rd7 42. Rd3 Re7 43. Rd1 Re8 44. Rcd2 Re7 45. Qc2 Kg8 46. Qc4 Kg7 47. Rc2
+Re8 48. Rd3 Re7 49. Rd1 Re8 50. Rd3 1/2-1/2
+
+[Event "SUI-chT Zuerich-Echallens"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.6"]
+[White "Mutschnik, Ilja"]
+[Black "Vianin, Pascal"]
+[Result "1-0"]
+[ECO "C63"]
+[WhiteElo "2430"]
+[BlackElo "2196"]
+[PlyCount "79"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 Nf6 6. Qe2 d5 7. Nxf6+ gxf6
+8. d4 Bg7 9. Be3 O-O 10. O-O-O e4 11. Ng1 Ne7 12. Qd2 Nf5 13. Bf4 Nd6 14. Be2
+c6 15. h4 Nc4 16. Bxc4 dxc4 17. h5 f5 18. Ne2 Be6 19. Bh6 Qe7 20. Bxg7 Kxg7 21.
+Nf4 Rad8 22. Rh3 Kf7 23. h6 Rg8 24. f3 Bd5 25. Rh5 Rg5 26. Re1 Rxh5 27. Nxh5
+Qh4 28. Ng7 Kg6 29. g4 Qg5 30. gxf5+ Kf6 31. fxe4 Qxd2+ 32. Kxd2 Bg8 33. Ke3
+Kg5 34. Rh1 b5 35. Rh5+ Kg4 36. f6 Rf8 37. Rf5 Bf7 38. e5 Bg6 39. Rf4+ Kg3 40.
+e6 1-0
+
+[Event "SUI-chT Echallens-Zuerich"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.7"]
+[White "Pahud, Cedric"]
+[Black "Friedrich, Norbert"]
+[Result "1/2-1/2"]
+[ECO "B31"]
+[WhiteElo "2201"]
+[BlackElo "2302"]
+[PlyCount "79"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. e4 c5 2. Na3 d6 3. c3 Nf6 4. g3 g6 5. Bg2 Bg7 6. d4 cxd4 7. cxd4 O-O 8. Ne2
+Nc6 9. O-O e5 10. d5 Nb8 11. Bd2 Nbd7 12. Nc4 Nc5 13. Qc2 Qe7 14. b4 Ncd7 15.
+Na5 Nb6 16. Nc3 Ne8 17. Qd3 f5 18. f3 h5 19. Be3 f4 20. Bf2 g5 21. Nb5 g4 22.
+Nxa7 Rxa7 23. Bxb6 Ra8 24. Bf2 Nf6 25. Nc4 gxf3 26. Bxf3 Bh3 27. Bg2 Bxg2 28.
+Kxg2 Ng4 29. Nd2 Nxf2 30. Rxf2 fxg3 31. Rxf8+ Rxf8 32. Qxg3 Qc7 33. Rf1 Rxf1
+34. Kxf1 Qc2 35. Ke2 Qxa2 36. Qg6 Qa6+ 37. Ke1 Qa1+ 38. Ke2 Qa6+ 39. Ke1 Qa1+
+40. Ke2 1/2-1/2
+
+[Event "SUI-chT Zuerich-Echallens"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.8"]
+[White "Gruenenwald, Joerg"]
+[Black "Meylan, Andre"]
+[Result "0-1"]
+[ECO "E12"]
+[WhiteElo "2343"]
+[BlackElo "2181"]
+[PlyCount "92"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.04.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. Bg5 Be7 7. Qa4+ Qd7 8.
+Qxd7+ Nbxd7 9. Nb5 Bd8 10. cxd5 Nxd5 11. Bxd8 Kxd8 12. Rc1 a6 13. Nc3 c5 14.
+Nxd5 Bxd5 15. Ng5 Ke7 16. e4 Bb7 17. dxc5 h6 18. Nf3 Nxc5 19. b4 Nd7 20. Bd3
+Rhc8 21. Ke2 Rxc1 22. Rxc1 Rc8 23. Rxc8 Bxc8 24. Ke3 Bb7 25. Nd2 Kd6 26. Nc4+
+Kc7 27. f4 h5 28. g3 b5 29. Ne5 Nxe5 30. fxe5 g6 31. Kd4 Kc6 32. Bc2 Kb6 33. h4
+Bc6 34. Bd1 Bd7 35. Ke3 Kc7 36. Bxh5 gxh5 37. g4 Kd8 38. gxh5 Ke7 39. Kd4 Bc6
+40. h6 Kf8 41. Kc5 Bxe4 42. Kb6 Kg8 43. Kxa6 Bd3 44. Ka5 Kh7 45. a4 bxa4 46.
+Kxa4 Kxh6 0-1
+
+[Event "SUI-chT Riehen-Wollishofen"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.1"]
+[White "Ragger, Markus"]
+[Black "Kessler, Luca"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "2657"]
+[BlackElo "2403"]
+[PlyCount "93"]
+[EventType "team"]
+[SourceDate "2018.04.15"]
+[WhiteTeam "Riehen"]
+[BlackTeam "Wollishofen"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. Re1 d6 7. a4 Na5 8. Ba2
+c5 9. c3 Nc6 10. Na3 a6 11. h3 Bd7 12. Bd2 Rb8 13. Nc2 b5 14. axb5 axb5 15. Ne3
+h6 16. Nh2 Re8 17. Qf3 Be6 18. Nhg4 Nxg4 19. Bxe6 fxe6 20. Qxg4 Bf8 21. Qg6 Qg5
+22. Qxg5 hxg5 23. Ra6 Rec8 24. Rea1 b4 25. Nc4 bxc3 26. bxc3 Be7 27. Kf1 Rc7
+28. Ke2 Kf7 29. Be3 Rb3 30. Kd2 Ke8 31. Kc2 Rb8 32. Ra8 Rxa8 33. Rxa8+ Nd8 34.
+Nb6 Rc6 35. Rb8 Bf6 36. Kb3 Rc7 37. Kc4 Rb7 38. Rxb7 Nxb7 39. Kb5 Nd8 40. Ka6
+Nf7 41. Kb7 Kd8 42. Kc6 Be7 43. Bd2 Bf8 44. c4 Be7 45. Ba5 Bf6 46. f3 g6 47.
+Nd5+ 1-0
+
+[Event "SUI-chT Wollishofen-Riehen"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.2"]
+[White "Prusikin, Michael"]
+[Black "Heimann, Andreas"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[WhiteElo "2521"]
+[BlackElo "2528"]
+[PlyCount "89"]
+[EventType "team"]
+[SourceDate "2018.04.15"]
+[WhiteTeam "Wollishofen"]
+[BlackTeam "Riehen"]
+
+1. Nf3 d5 2. d4 Nf6 3. e3 c5 4. dxc5 e6 5. c4 Bxc5 6. Nc3 O-O 7. a3 dxc4 8.
+Qxd8 Rxd8 9. Bxc4 a6 10. b4 Bd6 11. Bb2 b5 12. Be2 Bb7 13. O-O Nc6 14. Rfd1
+Rac8 15. Nd2 Ne5 16. Nb3 Nc4 17. Bxc4 Rxc4 18. Na5 Rc7 19. a4 bxa4 20. b5 Nd5
+21. Nxd5 Bxd5 22. b6 Rc5 23. Rxa4 Rb5 24. Ba3 Rxb6 25. e4 Bxe4 26. Rad4 Bc2 27.
+Rc1 Bxh2+ 28. Kxh2 Rxd4 29. Bc5 Rh4+ 30. Kg3 Rb5 31. Rxc2 g5 32. Nc6 f5 33. Ne5
+Re4 34. Nd7 Rg4+ 35. Kh2 Rh4+ 36. Kg3 Rb7 37. Rd2 Rc4 38. Bb6 Rb4 39. Bd8 Rg4+
+40. Kh2 Rh4+ 41. Kg3 Rbb4 42. Bf6 Rhg4+ 43. Kh3 Rh4+ 44. Kg3 Rhg4+ 45. Kh3
+1/2-1/2
+
+[Event "SUI-chT Riehen-Wollishofen"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.3"]
+[White "Renet, Olivier"]
+[Black "Moor, Roger"]
+[Result "1-0"]
+[ECO "B47"]
+[WhiteElo "2532"]
+[BlackElo "2410"]
+[PlyCount "63"]
+[EventType "team"]
+[SourceDate "2018.04.15"]
+[WhiteTeam "Riehen"]
+[BlackTeam "Wollishofen"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. f4 a6 7. Nxc6 Qxc6 8.
+Bd3 b5 9. Qe2 Bb7 10. Bd2 Bb4 11. O-O-O Nf6 12. Rhe1 O-O 13. Kb1 Rfe8 14. g4 d6
+15. g5 Nd7 16. Qh5 g6 17. Qh6 d5 18. Qh4 Bf8 19. Re3 b4 20. Ne2 Qc7 21. exd5
+Bxd5 22. Rh3 h5 23. f5 exf5 24. Nf4 Be4 25. Nxh5 gxh5 26. Qxh5 Bg7 27. Bxb4 Nc5
+28. Bc4 Re7 29. g6 Kf8 30. gxf7 Bxc2+ 31. Kxc2 Re4 32. Rh4 1-0
+
+[Event "SUI-chT Wollishofen-Riehen"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.4"]
+[White "Gaehler, Marco"]
+[Black "Breder, Dennis"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[WhiteElo "2368"]
+[BlackElo "2458"]
+[PlyCount "119"]
+[EventType "team"]
+[SourceDate "2018.04.15"]
+[WhiteTeam "Wollishofen"]
+[BlackTeam "Riehen"]
+
+1. g3 c5 2. Bg2 Nc6 3. e4 g6 4. Ne2 Bg7 5. c3 e5 6. f4 h5 7. fxe5 c4 8. d4 cxd3
+9. Nf4 Nxe5 10. Nxd3 h4 11. Bf4 d6 12. Bxe5 dxe5 13. Na3 hxg3 14. hxg3 Qb6 15.
+Ke2 Rxh1 16. Qxh1 Nf6 17. Qg1 Bg4+ 18. Bf3 Qe6 19. Qe3 Bxf3+ 20. Qxf3 O-O-O 21.
+b3 Qc6 22. Nf2 Bh6 23. Nc4 Qe6 24. a4 Ne8 25. Rh1 Bg7 26. Rh7 Rd7 27. Nd3 Rc7
+28. Nb4 f6 29. Nd5 Rc6 30. g4 Kb8 31. Qh3 Rc8 32. Nce3 Bf8 33. g5 Qa6+ 34. c4
+fxg5 35. Qd7 Nd6 36. Qe6 Nxe4 37. Qxe5+ Nd6 38. Nf6 Ka8 39. Nd7 Re8 40. Qxg5
+Nf5 41. Rh8 Qd6 42. Rxf8 Qxd7 43. Rxe8+ Qxe8 44. a5 Kb8 45. b4 Kc7 46. Qf4+ Kd7
+47. Kd3 Qxe3+ 48. Qxe3 Nxe3 49. Kxe3 Ke6 50. Kd4 Kd6 51. Ke4 a6 52. Kd4 g5 53.
+Ke4 Ke6 54. b5 Kd6 55. bxa6 bxa6 56. Kf5 Kc5 57. Kxg5 Kxc4 58. Kf4 Kb4 59. Ke3
+Kxa5 60. Kd3 1/2-1/2
+
+[Event "SUI-chT Riehen-Wollishofen"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.5"]
+[White "Georgiadis, Ioannis"]
+[Black "Moor, Olivier"]
+[Result "1/2-1/2"]
+[ECO "C05"]
+[WhiteElo "2462"]
+[BlackElo "2321"]
+[PlyCount "117"]
+[EventType "team"]
+[SourceDate "2018.04.15"]
+[WhiteTeam "Riehen"]
+[BlackTeam "Wollishofen"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. Ngf3 Nc6 7. Nb3 c4 8. Nbd2
+Qa5 9. c3 b5 10. b4 Qb6 11. a4 a5 12. axb5 Qxb5 13. Be2 Nb6 14. bxa5 Rxa5 15.
+Rxa5 Qxa5 16. Qc2 Bd7 17. O-O Be7 18. Bb2 O-O 19. Ra1 Qb5 20. Bd1 Ra8 21. Rxa8+
+Nxa8 22. Nf1 f5 23. exf6 Bxf6 24. Ne3 Be8 25. Ba3 Nc7 26. Bd6 Qa5 27. Bxc7 Qxc7
+28. f5 Bf7 29. Ng4 Qf4 30. Nxf6+ gxf6 31. Qa4 Ne7 32. fxe6 Qe3+ 33. Kf1 Qxe6
+34. Bc2 Qe3 35. Qa1 {(=)} Bg6 36. Qe1 Qxe1+ 37. Nxe1 Nc8 38. Bxg6 hxg6 39. Nc2
+Kf7 40. Ne3 Ke6 41. Ke2 Nd6 42. Kf3 Ne4 43. Nd1 g5 44. h4 gxh4 45. Kg4 Nd6 46.
+Ne3 Ne4 47. Nd1 f5+ 48. Kxh4 Kf7 49. Ne3 Nxc3 50. Nxf5 Nd1 51. Ng3 Ne3 52. Ne2
+Nxg2+ 53. Kg3 Ne1 54. Nf4 c3 55. Ne2 c2 56. Nc1 Kf6 57. Kf2 Kf5 58. Kxe1 Ke4
+59. Kd2 1/2-1/2
+
+[Event "SUI-chT Wollishofen-Riehen"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.6"]
+[White "Maeser, Fabian"]
+[Black "Turdyev, Anvar"]
+[Result "1/2-1/2"]
+[ECO "D22"]
+[WhiteElo "2310"]
+[BlackElo "2427"]
+[PlyCount "69"]
+[EventType "team"]
+[SourceDate "2018.04.15"]
+[WhiteTeam "Wollishofen"]
+[BlackTeam "Riehen"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 dxc4 4. e3 Bg4 5. Bxc4 e6 6. O-O a6 7. b3 Nc6 8. Bb2
+Bd6 9. Be2 O-O 10. Nbd2 Re8 11. Rc1 Qe7 12. Nc4 Red8 13. Nfd2 Bxe2 14. Qxe2
+Rac8 15. Rfd1 Bb4 16. Nf3 Ne4 17. a3 Bd6 18. Nfd2 Nxd2 19. Rxd2 Qh4 20. g3 Qh3
+21. Qf3 h5 22. d5 exd5 23. Rxd5 Bf8 24. Rxh5 Qe6 25. Qf4 b5 26. Ne5 Nxe5 27.
+Bxe5 Qxb3 28. Qh4 f6 29. Rh8+ Kf7 30. Qh5+ Ke6 31. Bd4 c5 32. Qg4+ Kf7 33. Qh5+
+Ke6 34. Qg4+ Kf7 35. Qh5+ 1/2-1/2
+
+[Event "SUI-chT Riehen-Wollishofen"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.7"]
+[White "Cvitan, Ognjen"]
+[Black "Hochstrasser, Michael"]
+[Result "1/2-1/2"]
+[ECO "D19"]
+[WhiteElo "2442"]
+[BlackElo "2298"]
+[PlyCount "128"]
+[EventType "team"]
+[SourceDate "2018.04.15"]
+[WhiteTeam "Riehen"]
+[BlackTeam "Wollishofen"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+O-O 9. Qe2 Ne4 10. Bd3 Bxc3 11. bxc3 Nxc3 12. Qc2 Bxd3 13. Qxd3 Nd5 14. Ba3 Re8
+15. Rab1 b6 16. Ne5 a5 17. Rfc1 Qc7 18. Qe4 Rc8 19. Qf3 Ra7 20. h3 h6 21. e4
+Nb4 22. Bxb4 axb4 23. Rxb4 c5 24. Rbc4 Nc6 25. Nd3 Na5 26. R4c3 Nb7 27. Qh5
+Rxa4 28. dxc5 b5 29. Qe2 Rca8 30. Qb2 Qc6 31. Qb1 Na5 32. Ne5 Qxe4 33. Qxb5 Rb4
+34. Qd7 Qxe5 35. c6 Nxc6 36. Rxc6 Rbb8 37. Rc7 Rf8 38. h4 Ra1 39. g3 Rxc1+ 40.
+Rxc1 Ra8 41. Qc7 Qe4 42. Qc5 Ra2 43. Qc3 Qd5 44. Qc6 g6 45. Qxd5 exd5 46. Rc6
+h5 47. Rd6 Ra5 48. Kg2 Kf8 49. Rd7 Ke8 50. Rb7 Ra6 51. Kf3 Rd6 52. Kf4 Rd7 53.
+Rb3 Ke7 54. Ke5 f6+ 55. Kd4 Ke6 56. Re3+ Kf5 57. Rf3+ Ke6 58. Re3+ Kf7 59. Rf3
+Rd8 60. Kc5 Ke6 61. Re3+ Kf5 62. Rf3+ Ke5 63. Re3+ Kf5 64. Rf3+ Ke5 1/2-1/2
+
+[Event "SUI-chT Wollishofen-Riehen"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.8"]
+[White "Umbach, Andreas"]
+[Black "Flueckiger, Christian"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[WhiteElo "2275"]
+[BlackElo "2318"]
+[PlyCount "98"]
+[EventType "team"]
+[SourceDate "2018.04.15"]
+[WhiteTeam "Wollishofen"]
+[BlackTeam "Riehen"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. d5 Nb8 8. O-O
+c6 9. dxc6 Nxc6 10. Qe1 Bg4 11. Qh4 Bxf3 12. Rxf3 e6 13. Kh1 Nd7 14. Qh3 Nd4
+15. Rf1 Nc5 16. Be3 Nxd3 17. cxd3 Nc2 18. Rac1 Nxe3 19. Qxe3 d5 20. exd5 Bxc3
+21. Rxc3 Qxd5 22. a3 Rfd8 23. Rfc1 Rd7 24. Rc8+ Rxc8 25. Rxc8+ Kg7 26. Rc3 Qb5
+27. b4 a5 28. h3 axb4 29. axb4 Rd5 30. Rc4 Qd7 31. Rc5 Rxd3 32. Qe5+ f6 33. Qb8
+Qe7 34. Qc8 Rd4 35. Kh2 Rd7 36. b5 Qd6 37. Rc4 b6 38. Qc6 Kf7 39. Qxd6 Rxd6 40.
+Rc7+ Ke8 41. Rxh7 Rd5 42. Rg7 Rxb5 43. Rxg6 Rf5 44. Rg8+ Kd7 45. Kg3 b5 46. Kg4
+Kc7 47. Re8 Kd7 48. Rb8 Kc7 49. Re8 Kd7 1/2-1/2
+
+[Event "SUI-ch Mendrisio-Luzern"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.1"]
+[White "Bellini, Fabio"]
+[Black "Studer, Noel"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "2490"]
+[BlackElo "2470"]
+[PlyCount "160"]
+[SourceDate "2018.04.15"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Nc6 5. c3 e5 6. Be2 Bd6 7. O-O O-O 8. exd5
+Nxd5 9. Nc4 Re8 10. Nxd6 Qxd6 11. Ng5 Bf5 12. Ne4 Qe7 13. Bg5 f6 14. Bd2 Rad8
+15. Qb3 b6 16. Bh5 Rf8 17. Rfe1 Be6 18. Qc2 Qd7 19. Rad1 Nde7 20. Be2 Bd5 21.
+b4 Nf5 22. b5 Nce7 23. Qb2 Nh4 24. f3 Qf5 25. c4 Ba8 26. Bb4 Rfe8 27. Ng3 Qg6
+28. Bxe7 Rxe7 29. d4 e4 30. d5 f5 31. f4 Qd6 32. Qd2 c6 33. bxc6 Bxc6 34. Qe3
+Be8 35. Nf1 Ng6 36. g3 Ba4 37. Rc1 Nf8 38. c5 bxc5 39. Qxc5 Be8 40. Ne3 g6 41.
+Qxd6 Rxd6 42. Rc5 Bf7 43. Rd1 Red7 44. Ra5 Kg7 45. Bc4 h6 46. Bb3 Nh7 47. Nc4
+Rf6 48. Ne5 Rb7 49. d6 Bxb3 50. d7 Bxd1 51. d8=Q Bh5 52. Rb5 Rxb5 53. Qd7+ Kg8
+54. Qxb5 a6 55. Qb8+ Kg7 56. Qb7+ Kg8 57. Nd7 Rf7 58. Qc8+ Kg7 59. Ne5 Rf6 60.
+Kf2 g5 61. Qb7+ Kg8 62. Nd7 Rf7 63. Qc8+ Kg7 64. Nc5 Nf6 65. Ne6+ Kg6 66. Nf8+
+Kg7 67. Ne6+ Kg6 68. h3 Re7 69. Ke3 Kf7 70. Nd8+ Kg6 71. Nc6 gxf4+ 72. gxf4 Re8
+73. Ne5+ Kg7 74. Qxf5 Rd8 75. Qe6 Nd5+ 76. Kd4 Nc3+ 77. Ke3 Nd1+ 78. Kxe4 Nf2+
+79. Ke3 Nd1+ 80. Ke4 Nf2+ 1/2-1/2
+
+[Event "SUI-ch Luzern-Mendrisio"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.2"]
+[White "Huebner, Robert"]
+[Black "Aranovitch, Emiliano"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[WhiteElo "2605"]
+[BlackElo "2348"]
+[PlyCount "148"]
+[SourceDate "2018.04.15"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. c4 Bxb5 5. cxb5 a6 6. Nc3 Nf6 7. e5 dxe5 8.
+Nxe5 Nbd7 9. Nc4 Nb6 10. Qb3 Nxc4 11. Qxc4 e6 12. O-O Be7 13. d3 axb5 14. Nxb5
+O-O 15. Bf4 Qd7 16. Rfd1 Nd5 17. Be5 Nb6 18. Qb3 Qd5 19. Qxd5 Nxd5 20. b3 Rfd8
+21. d4 f6 22. Bg3 cxd4 23. Rxd4 Nb4 24. a4 Rxd4 25. Nxd4 Kf7 26. Rc1 Rd8 27.
+Nb5 Rd3 28. h3 Na6 29. Rc3 Rxc3 30. Nxc3 Nc5 31. b4 Nd3 32. b5 Bb4 33. Ne4 Ke7
+34. Bc7 f5 35. Ng3 Bc5 36. Kf1 Kd7 37. b6 Bxf2 38. Ke2 Bxg3 39. Bxg3 Nc5 40. a5
+Kc6 41. Be5 g6 42. Ke3 Kd5 43. Bc3 e5 44. g3 g5 45. g4 f4+ 46. Ke2 h6 47. Bb2
+Nd7 48. Ba3 Kc6 49. Bb2 Kb5 50. Bc3 Kc4 51. Bb2 Kc5 52. Ba1 Kd5 53. Bc3 Nc5 54.
+Bb2 e4 55. Bg7 Kc6 56. Bd4 Ne6 57. Bc3 Kb5 58. Kf2 Kc6 59. Ke2 Kb5 60. Kf2 Kc5
+61. Ke2 Kc6 62. Be5 Nd8 63. Bf6 Kd7 64. Bg7 Kd6 65. Kf2 e3+ 66. Kf3 Kc5 67. h4
+Ne6 68. hxg5 hxg5 69. Bf6 Kb5 70. Bc3 Kc5 71. Bf6 Kb5 72. Bc3 Kc6 73. Bf6 Kc5
+74. Be5 Kb5 1/2-1/2
+
+[Event "SUI-ch Mendrisio-Luzern"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.3"]
+[White "Patuzzo, Fabrizio"]
+[Black "Atlas, Valery"]
+[Result "1-0"]
+[ECO "A36"]
+[WhiteElo "2338"]
+[BlackElo "2455"]
+[PlyCount "101"]
+[SourceDate "2018.04.15"]
+
+1. c4 c5 2. g3 Nc6 3. Bg2 g6 4. e3 Bg7 5. Ne2 e5 6. Nbc3 Nge7 7. a3 O-O 8. Rb1
+a5 9. d3 d6 10. Bd2 Rb8 11. O-O Be6 12. Qc2 Kh8 13. Rfd1 f5 14. Nb5 Rc8 15. Bc3
+d5 16. d4 cxd4 17. exd4 e4 18. c5 g5 19. Nd6 f4 20. Nxc8 Qxc8 21. Bh1 f3 22.
+Nc1 Nf5 23. b4 axb4 24. axb4 Ncxd4 25. Qb2 Nb5 26. Bxg7+ Nxg7 27. Nb3 Qe8 28.
+Ra1 h6 29. Ra5 e3 30. Re1 exf2+ 31. Kxf2 Qh5 32. h4 gxh4 33. g4 Qg5 34. Rxe6
+Kg8 35. Re3 Qf4 36. Qe5 Qc4 37. Bxf3 d4 38. Kg2 Qc2+ 39. Re2 h3+ 40. Kh2 Qd3
+41. Bd5+ Kh8 42. Qe4 Qxe4 43. Rxe4 Nc3 44. Rxd4 Rf2+ 45. Kxh3 Nxd5 46. Rxd5
+Rf3+ 47. Kg2 Rxb3 48. Rd8+ Kh7 49. Rb5 Rb2+ 50. Kf3 Rb3+ 51. Ke2 1-0
+
+[Event "SUI-ch Luzern-Mendrisio"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.4"]
+[White "Kurmann, Oliver"]
+[Black "Zujev, Oleg"]
+[Result "1/2-1/2"]
+[ECO "B11"]
+[WhiteElo "2467"]
+[BlackElo "2399"]
+[PlyCount "80"]
+[SourceDate "2018.04.15"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. g3 Nf6 7. Bg2 dxe4 8.
+Nxe4 Nxe4 9. Qxe4 Qd5 10. O-O Qxe4 11. Bxe4 Nd7 12. b4 Nf6 13. Bf3 O-O-O 14.
+Rb1 Nd5 15. a3 Be7 16. Rb3 Rd7 17. d3 Bf6 18. Bd2 h6 19. Rfb1 Be5 20. a4 Rhd8
+21. c3 Bf6 22. d4 Nb6 23. Be1 Be7 24. a5 Nd5 25. c4 Nc7 26. a6 Nxa6 27. b5 cxb5
+28. Rxb5 b6 29. c5 Nc7 30. R5b2 Rxd4 31. cxb6 axb6 32. Rxb6 Nd5 33. Rb7 Rd7 34.
+Rb8+ Kc7 35. R8b7+ Kc6 36. R7b6+ Kc7 37. Rb7+ Kc8 38. Rb8+ Kc7 39. R8b7+ Kc8
+40. Rb8+ Kc7 1/2-1/2
+
+[Event "SUI-ch Mendrisio-Luzern"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.5"]
+[White "Vezzosi, Paolo"]
+[Black "Baenziger, Fabian"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2312"]
+[BlackElo "2359"]
+[PlyCount "61"]
+[SourceDate "2018.04.15"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. c3 d6 6. e4 Nc6 7. h3 e5 8. dxe5
+Nxe5 9. Nxe5 dxe5 10. Bc4 Qd6 11. O-O b6 12. Qf3 Bb7 13. Rfe1 h6 14. Bxf6 Qxf6
+15. Qe3 Rfd8 16. b4 Qf4 17. Nb3 Qxe3 18. Rxe3 Rd6 19. Kf1 Bf6 20. f3 Rad8 21.
+Ke2 Kf8 22. Rd3 Ke7 23. Rad1 Rxd3 24. Rxd3 Rxd3 25. Kxd3 c6 26. Ke2 Bg5 27. a4
+Bc8 28. Kd3 Bd7 29. Ke2 Bc8 30. Kd3 Bd7 31. Ke2 1/2-1/2
+
+[Event "SUI-ch Luzern-Mendrisio"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.6"]
+[White "Loetscher, Roland"]
+[Black "Mantovani, Renzo"]
+[Result "1/2-1/2"]
+[ECO "D12"]
+[WhiteElo "2410"]
+[BlackElo "2329"]
+[PlyCount "148"]
+[SourceDate "2018.04.15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Be2 Nbd7 8. O-O
+Bd6 9. g3 O-O 10. Nxg6 hxg6 11. Qc2 dxc4 12. Bxc4 c5 13. dxc5 Bxc5 14. Rd1 a6
+15. Bf1 Rc8 16. Bg2 Qc7 17. Bd2 b5 18. Rac1 Qb8 19. Qb1 Rfe8 20. Ne4 Be7 21.
+Ba5 Rxc1 22. Rxc1 Rc8 23. Rc2 Nxe4 24. Bxe4 Rxc2 25. Qxc2 Nc5 26. Bg2 Qd6 27.
+Qd2 Qd3 28. Qxd3 Nxd3 29. Bb7 Nxb2 30. Bxa6 Nc4 31. Be1 Na3 32. Kf1 f5 33. Ke2
+Kf7 34. Kd3 b4 35. Kd2 Bf6 36. Kd3 Be7 37. h4 Bd6 38. f3 Ke7 39. g4 Kd7 40. e4
+fxe4+ 41. fxe4 Be7 42. Bc4 Bd6 43. Bb3 Ke7 44. Bd2 Kf6 45. Be3 Kf7 46. Bd4 Bg3
+47. Bc5 Be1 48. Ba4 Bc3 49. Bd7 Be1 50. Bc8 Bc3 51. Ba6 Be1 52. Ke2 Bc3 53. Bd3
+e5 54. Kf3 Be1 55. h5 Kf6 56. Be3 Bc3 57. g5+ Kf7 58. Kg4 Be1 59. Bc5 Bd2 60.
+Bd6 Bc3 61. Bc7 Bd4 62. Bb8 Bc3 63. Bd6 Ke6 64. h6 gxh6 65. gxh6 Kf7 66. Be7
+Kg8 67. Bg5 Bd4 68. Bd2 Bc5 69. Kg5 Kf7 70. h7 Be7+ 71. Kh6 Bf8+ 72. Kg5 Be7+
+73. Kh6 Bf8+ 74. Kg5 Be7+ 1/2-1/2
+
+[Event "SUI-ch Mendrisio-Luzern"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.7"]
+[White "Astengo, Corrado"]
+[Black "Arcuti, Davide"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2120"]
+[BlackElo "2335"]
+[PlyCount "54"]
+[SourceDate "2018.04.15"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. c3 Nf6 6. e5 d5 7. Bb5 Ne4 8. cxd4
+Bb6 9. O-O O-O 10. Nc3 f5 11. exf6 Nxf6 12. h3 Qd6 13. Re1 Bf5 14. Be3 Rae8 15.
+Qd2 Ne4 16. Qc1 Nxc3 17. Qxc3 Ba5 18. Qb3 Bxe1 19. Nxe1 Bd7 20. Be2 Nxd4 21.
+Bxd4 Rxe2 22. Qxb7 c5 23. Be3 d4 24. Qb3+ Be6 25. Qd3 dxe3 26. Qxd6 exf2+ 27.
+Kh2 f1=Q 0-1
+
+[Event "SUI-ch Luzern-Mendrisio"]
+[Site "?"]
+[Date "2018.04.15"]
+[Round "2.8"]
+[White "Georgescu, Lena"]
+[Black "Cacciola, Alfredo"]
+[Result "1-0"]
+[ECO "B77"]
+[WhiteElo "2213"]
+[BlackElo "2184"]
+[PlyCount "80"]
+[SourceDate "2018.04.15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Bc4
+Nc6 9. Bb3 Bd7 10. h4 h5 11. Qd2 Rc8 12. Nxc6 bxc6 13. g4 hxg4 14. h5 Nxh5 15.
+O-O-O Qa5 16. fxg4 Bxg4 17. Rdg1 Nf6 18. Bh6 Bh5 19. Rxg6 Bxg6 20. Bxg7 Nh7 21.
+Bd4 e5 22. Qh6 Kh8 23. Bf2 Qc7 24. Bh4 f6 25. Qxg6 Qg7 26. Qf5 Qh6+ 27. Kb1 Rc7
+28. Ne2 Rg7 29. Qf3 Qg6 30. Ng3 d5 31. a3 dxe4 32. Nxe4 f5 33. Nc5 Re8 34. Be1
+Qd6 35. Bb4 Qd4 36. Ne6 Rg1+ 37. Rxg1 Qxg1+ 38. Ka2 Qg6 39. Nc5 Ng5 40. Qh1+
+Nh7 1-0
+

@@ -21,5 +21,8 @@ be found at [https://hexdocs.pm/chess_parser](https://hexdocs.pm/chess_parser).
 
 ## Sample usage
 
-iex> {:ok, trees} = ChessParser.process_file "./test/fixtures/GRENKEChessClassic2018.pgn"
+```elixir
+iex> {:ok, trees} = ChessParser.load_file "./test/fixtures/GRENKEChessClassic2018.pgn"
 iex> trees |> Enum.map(fn {:tree, tags, _elems} -> ChessParser.tags_to_game_info(tags) end)
+iex> trees |> Enum.map(& ChessParser.dump_tree(&1)) |> IO.puts
+```

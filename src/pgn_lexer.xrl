@@ -16,7 +16,7 @@ COMMENT_EOL    = ;.*
 MOVE_EVAL      = (!|!!|\?|\?\?|!\?|\?!)?
 
 NAG            = \$[0-9]*
-CASTLING       = O-O(-O)?
+CASTLING       = O-O(-O)?(\+)?
 RESULT         = 1-0|0-1|1\/2-1\/2|\*
 
 WHITESPACE     = [\s\t]

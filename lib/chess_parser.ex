@@ -113,6 +113,6 @@ defmodule ChessParser do
   end
   
   defp remove_bom_char(string) do
-    String.trim(pgn, "\uFEFF")
+    String.trim(string, "\uFEFF")
   end
 end

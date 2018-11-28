@@ -8,23 +8,18 @@ defmodule ChessParser do
   @type elem :: {atom(), integer(), charlist()} | {:variation, list(elem())}
   @type tree :: {:tree, list(tag), list(elem)}
 
-  # @doc false
   @spec load_file(String.t()) :: {:ok, list(tree())} | {:error, term()}
-
   def load_file(filename) when is_binary(filename) do
-    with {:ok, pgn} <- File.read(filename),
-         pgn <- String.trim(pgn, "\uFEFF") do
+    with {:ok, pgn} <- File.read(filename) do
       load_string(pgn)
     else
       _ -> {:error, "could not process pgn"}
     end
   end
 
-  @doc false
   @spec load_string(String.t()) :: {:ok, list(tree())} | {:error, term()}
-
   def load_string(pgn) when is_binary(pgn) do
-    with {:ok, tokens, _} <- pgn |> to_charlist |> :pgn_lexer.string(),
+    with {:ok, tokens, _} <- pgn |> remove_bom_char() |> to_charlist() |> :pgn_lexer.string(),
          {:ok, games} <- tokens |> :pgn_parser.parse() do
       {:ok, games}
     else
@@ -32,9 +27,7 @@ defmodule ChessParser do
     end
   end
 
-  @doc false
   @spec dump_tree(tree()) :: {:ok, String.t()}
-  
   def dump_tree({:tree, tags, elems}) do
     pgn =
       elems
@@ -45,9 +38,7 @@ defmodule ChessParser do
     {:ok, result}
   end
 
-  @doc false
   @spec tags_to_game_info(list(tag())) :: map()
-
   def tags_to_game_info(tags) do
     tags
     |> Enum.reduce(%{}, fn {:tag, _line, tag}, acc ->
@@ -119,5 +110,9 @@ defmodule ChessParser do
     |> Enum.join(" ")
     |> String.trim_leading("\"")
     |> String.trim_trailing("\"")
+  end
+  
+  defp remove_bom_char(string) do
+    String.trim(pgn, "\uFEFF")
   end
 end

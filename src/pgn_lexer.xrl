@@ -4,7 +4,8 @@
 
 Definitions.
 
-TAG            = \[[^\]]*\]
+% TAG            = \[[^\]]*\]
+TAG            = \[.*\".*\"\s?\]
 MOVE           = [1-9][0-9]*\.(\.)?(\.)?
 
 % There is an ambiguity on 26.Nxc8+- as the plus can be seen as check!

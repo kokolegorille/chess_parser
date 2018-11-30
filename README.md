@@ -26,3 +26,16 @@ iex> {:ok, trees} = ChessParser.load_file "./test/fixtures/GRENKEChessClassic201
 iex> trees |> Enum.map(fn {:tree, tags, _elems} -> ChessParser.tags_to_game_info(tags) end)
 iex> trees |> Enum.map(& ChessParser.dump_tree(&1)) |> IO.puts
 ```
+
+30/11/2018
+Update lexer to fix bogus tags
+
+eg. [Site "Moscow 51/104 [Tal,M]"]
+
+Replace in lexer
+
+TAG            = \[[^\]]*\]
+
+with the more specific
+
+TAG            = \[.*\".*\"\s?\]
